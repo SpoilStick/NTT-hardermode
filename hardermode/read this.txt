@@ -1,0 +1,129 @@
+hard mode
+blaac
+
+i should write a readme
+im tired
+
+
+CREDIT to good people
+
+yellowafterlife - https://twitter.com/YellowAfterlife
+	brought life into NT, got update 99 onto steam, added modding support, online co-op, responded to modders requests, very good boy
+saniblues - sani#6813
+	ravenboss(i changed it a bit), guardianboss, hostilerogue's portalstrike, roguefreak's sprites, the entire boss intro system, and the persistant options system
+yokin - Yokin#1322
+	bits of code here and there, any sort of string/rope physics, smoking gators, testing, helped me learn gml
+9joao6 - 9joao6#9971
+	the fancy level transition effects for cursed caves and oasis, jumping out of the level with the venuz car, hidden doors in walls, scorpion boss's loop death explosion
+ideaot - ideaot#9103
+	letting me use the sprites of the shielding spider from his Chaos mod for u19 of NT(i used them much less than i originally intended), Chaos mod is really cool guys, go play it, concept of 3d idpd vans
+jsburg - Jsburg#1045
+	creating the draw code for 3d 'voxel' objects that the venuz car/idpdvan uses, ported the idpd van into a sprite that can be rendered in 3d
+neonomi - https://www.twitch.tv/neonomi
+	streaming the mod a lot, bug/balance help
+sleepcycles - https://www.youtube.com/user/sleepcyclesgaming
+	making a video of the mod
+	
+cool people, thanks
+all met through NT's discord server - discord.gg/nt 
+
+GUNGODZ ost by Jukio"Kuabee"Kallio http://jukiokallio.bandcamp.com/
+
+
+i drew/ animated/ coded the rest of it
+
+my tumblr ♦ https://13laac.tumblr.com/
+i do art commissions/pixel art commission. hire me
+my email  ♦ cardboardrobothead@yahoo.com
+
+Blaac
+
+♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
+
+OKAY, words
+
+
+	Nuclear Throne Together: hard mode
+	
+	
+each area is 2 stages longer, generally
+(5 stage desert, 3 stage sewers, so on)
+	
+9 NEW bosses
+
+old bosses tweaked
+
+new enemies, reworked enemies
+
+some secret weapons
+
+other secrets
+
+custom boss intro system
+	freeze the game and pans to boss
+	boss outros
+	new bosses have portraits
+	settable with chatcommands
+	saved between sessions
+	boss portraits tied to base NT's boss portrait menu option
+i recomend 
+		boss portraits off
+		intropan on
+		outropan off
+	so whats probably on by defualt as not many use boss intros
+	
+	options:
+	/intropan -freezes the game and pans to bosses
+	/bossoutros -pauses and pans on boss death
+	/rads -rads are absorbed by nearby enemies(drop when they are killed)
+	/weaponnames -some weapons are renamed(chicken sword = sword)
+	/coopchests -ammo chests spawn extra ammo for other players in co-op
+		0=off,1=on
+	/portals -fancy portals, waits for all alive players in Co op");
+	/rogue -restores rogue cansisters and removes the chance for idpd to drop strike ammo
+	/flames -returns flame weapons to how they are in normal nt
+	
+	
+	
+
+
+if anyone streams/makes a video of this let me know
+	
+	thanks
+	
+	
+:small sort of spoilerish list
+because people hate finding things and want to find every new thing that i spent weeks making in the first hour and move on
+
+♦scorpionbullets can be changed into rad maggots when spawned(also other bullets that use the same object), sideeffect- the frog pistol can spawn maggots on you, i think this is funny, its staying in
+♦rats turn into a greenrat instead of dying
+
+♦enemies can spawn more ravens when they die
+♦big dogs bullets can bounce
+♦big dogs rockets are faster
+♦you cants swap cursed guns
+♦cursed hyper crystal decurses all weapons when it dies
+♦you can burn webs
+♦city spawns 1 more van every level
+♦labs turrets despawn after a bit
+♦turrets are spawned by technomancers
+♦stand near the statue in 7-3
+♦throne heals from generators
+♦throne2 spawns from throne1
+♦jump off the stage after throne
+
+	secret areas
+♦OASIS - enter 1-2 with maxhp on all players. destroy the fish skull AFTER a portal spawns
+♦turtle manhole is in 2-2
+♦fix the gold car in 3-1 to drive the car, build speed to go to venuz(gungodz port)
+♦ice cave will spawn in caves if you bring a flame weapon in with you, melt the ice
+♦jungle flower is in 4-3 behind hyper crystal
+♦jungle enemies go invisible if not in line of sight
+♦there is no yeti
+♦'E' the giant moniter in 6-3 to change destinations. breaks with portal
+
+♦secret weapons in :oasis, cursed caves/icecaves, venuz, and idpdhq
+
+
+
+not as many words as i would like...

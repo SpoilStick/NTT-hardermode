@@ -1,0 +1,77 @@
+//oh god the re-organizinging
+
+//b23
+
+//areas
+/loadmod areas/noyetihere.area
+/loadmod areas/icecave.area
+/loadmod areas/ravenboss.area
+/loadmod areas/scorpionboss.area
+/loadmod areas/turtles.area
+/loadmod areas/elevator.area
+/loadmod areas/HQ.area
+/loadmod areas/venuz.area
+/loadmod areas/oasis.area
+/loadmod areas/jungle.area
+/loadmod areas/cavesinv.area
+
+//bosses
+/loadmod bosses/scorpionboss
+/loadmod bosses/turtles
+/loadmod bosses/ratboss
+/loadmod bosses/ravenboss
+/loadmod bosses/gatorboss
+/loadmod bosses/titank
+/loadmod bosses/guardianboss
+/loadmod bosses/throne
+/loadmod bosses/gungod
+
+//weapons
+//1 trident
+//2 harpoon gun
+//3 crystalrifle
+//i1 heavy idpd
+//i2 idpd slugger
+//i3 hyperrifle
+//g1 venuz pistol
+//g2 venuz shotgun
+//g3 venuz minigun
+//g4 venuz rocketlauncher
+//g5 venuz smg
+
+/loadwep weapons/secretweapon1
+/loadwep weapons/secretweapon2
+/loadwep weapons/secretweapon3
+
+/loadwep weapons/secretweaponi1
+/loadwep weapons/secretweaponi2
+/loadwep weapons/secretweaponi3
+
+/loadwep weapons/secretweapong1
+/loadwep weapons/secretweapong2
+/loadwep weapons/secretweapong3
+/loadwep weapons/secretweapong4
+/loadwep weapons/secretweapong5
+
+
+
+/loadmod areas/end.area
+/loadmod areas/throne.area
+/loadmod areas/palace.area
+/loadmod areas/labs.area
+/loadmod areas/city.area
+/loadmod areas/caves.area
+/loadmod areas/junkyard.area
+/loadmod areas/sewers.area
+/loadmod areas/nightdesert.area
+
+//overlord
+/loadmod maincode
+/loadmod enemies
+/loadmod props
+/loadmod bosses/bossintros
+/loadmod options
+
+
+
+
